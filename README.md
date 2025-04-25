@@ -57,16 +57,6 @@ A real-time sign recognition system that identifies military hand gestures such 
 
 ---
 
-📊 Visualization
-
-### 🎯 Prediction Overlay
-
-<p align="center">
- <img src="readme_refs/gesture_demo.png" width="600" alt="Gesture Probability Visualization">
-</p>
-
----
-
 ## 📆 Getting Started
 
 ### 📁 Prerequisites
